@@ -7,4 +7,4 @@
 
 🕸Interactive map for radio spectrum allocation in Germany: [igorskh/react-spectrum-allocation-diagram](https://github.com/igorskh/react-spectrum-allocation-diagram)
 
-![github languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=igorskh&layout=compact&theme=blue-green)
+![github languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=igorskh&layout=compact&theme=blue-green&exclude_repo=iperf-swift,igorskh)
