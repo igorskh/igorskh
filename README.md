@@ -5,6 +5,6 @@
 
 🏅A winning submission to IT Talents code competition: [igorskh/smart-shopping-list-web](https://github.com/igorskh/smart-shopping-list-web)
 
-🕸 Interactive map for radio spectrum allocation in Germany: [igorskh/react-spectrum-allocation-diagram](https://github.com/igorskh/react-spectrum-allocation-diagram)
+🕸Interactive map for radio spectrum allocation in Germany: [igorskh/react-spectrum-allocation-diagram](https://github.com/igorskh/react-spectrum-allocation-diagram)
 
 ![github languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=igorskh&layout=compact&theme=blue-green)
