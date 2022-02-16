@@ -1,5 +1,5 @@
 ## About me
-I am full-stack web and mobile developer. Former mobile communications researcher, now software developer in healthcare research.
+I am a full-stack web and mobile developer. Former mobile communications researcher, at the moment doing software development in healthcare research.
 
 Also, I am a language enthusiast, mobile photographer, love to listen and to play music.
 
