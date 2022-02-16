@@ -1,3 +1,8 @@
+## About me
+I am full-stack web and mobile developer. Former mobile communications researcher, now software developer in healthcare research.
+
+Also, I am a language enthusiast, mobile photographer, love to listen and to play music.
+
 ## Follow me
 
 💻 LinkedIn: [igorskh](https://linkedin.com/in/igorskh)
