@@ -9,6 +9,8 @@ Also, I am a language enthusiast, mobile photographer, love to listen and to pla
 
 🦉 Duolingo: [igorskh](https://duolingo.com/igorskh)
 
+📷 Instagram: [igorskh](https://www.instagram.com/igorskh/)
+
 ## Highlights
 🍏Latest iOS project - iPerf3 Client: [igorskh/iperf-swiftui](https://github.com/igorskh/iperf-swiftui)
 
