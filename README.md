@@ -7,9 +7,11 @@ I am a language enthusiast, mobile photographer, love to listen and to play musi
 
 💻 LinkedIn: [igorskh](https://linkedin.com/in/igorskh)
 
-🦉 Duolingo: [igorskh](https://duolingo.com/igorskh)
+🦉 6+ years streak on Duolingo: [igorskh](https://duolingo.com/profile/igorskh)
 
-📷 Instagram: [igorskh](https://www.instagram.com/igorskh/)
+📷 Nature and astrophotography [on Vero](https://vero.co/igorskh)
+
+📷 Daily storeis, nature and astro photograpy [on Instagram](https://www.instagram.com/igorskh/)
 
 ## Highlights
 🍏Latest iOS project - iPerf3 Client: [igorskh/iperf-swiftui](https://github.com/igorskh/iperf-swiftui)
