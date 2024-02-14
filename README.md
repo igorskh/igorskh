@@ -7,9 +7,7 @@ I am a language enthusiast, mobile photographer, love to listen and to play musi
 
 💻 LinkedIn: [igorskh](https://linkedin.com/in/igorskh)
 
-🦉 6+ years streak on Duolingo: [igorskh](https://duolingo.com/profile/igorskh)
-
-📷 Nature and astrophotography [on Vero](https://vero.co/igorskh)
+🦉 7+ years streak on Duolingo: [igorskh](https://duolingo.com/profile/igorskh)
 
 📷 Daily stories, nature and astro photograpy [on Instagram](https://www.instagram.com/igorskh/)
 
