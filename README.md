@@ -1,7 +1,7 @@
 ## About me
 I am a full-stack web and mobile developer. Former mobile communications researcher, at the moment doing software development in healthcare research.
 
-I am a language enthusiast, mobile photographer, love to listen and to play music.
+I am a language enthusiast, wildlife and nature photographer, love to listen and to play music.
 
 ## Follow me
 
