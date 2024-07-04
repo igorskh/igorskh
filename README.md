@@ -17,10 +17,10 @@ I am a language enthusiast, wildlife and nature photographer.
 - iPerf3 Client: [igorskh/iperf-swiftui](https://github.com/igorskh/iperf-swiftui)
 - Configurable Android ping client: [igorskh/kt_ping](https://github.com/igorskh/kt_ping)
 - LTE/5G NR measurement tool: [igorskh/harvester](https://github.com/igorskh/harvester)
-### 🕸 Web
+### 🕸Web
 - Interactive map for radio spectrum allocation in Germany: [igorskh/react-spectrum-allocation-diagram](https://github.com/igorskh/react-spectrum-allocation-diagram)
 - Smart Shopping List (Competition entry): [igorskh/smart-shopping-list-web](https://github.com/igorskh/smart-shopping-list-web)
-### Games
+### 🎮Games
 - Interactive visual novel developed in Unity: [Google Play link](https://play.google.com/store/apps/details?id=one.beagile.boragoldencoast&hl=en)
 
 ![github languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=igorskh&layout=compact&theme=blue-green&hide=c,html)
