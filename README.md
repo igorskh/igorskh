@@ -1,12 +1,10 @@
 ## About me
 I am a full-stack web and mobile developer. Former mobile communications researcher, at the moment doing software development in healthcare research.
 
-I am a language enthusiast, wildlife and nature photographer.
-
 ## Follow me
-💻 Professional details on [LinkedIn](https://linkedin.com/in/igorskh)
-🦉 7+ years streak [on Duolingo](https://duolingo.com/profile/igorskh)
-📷 Daily stories, nature and astro photograpy [on Instagram](https://www.instagram.com/igorskh/)
+- 💻 Professional details on [LinkedIn](https://linkedin.com/in/igorskh)
+- 🦉 7+ years streak [on Duolingo](https://duolingo.com/profile/igorskh)
+- 📷 Daily stories, nature and astro photograpy [on Instagram](https://www.instagram.com/igorskh/)
 
 ## Highlights
 ### 🍏Mobile 
