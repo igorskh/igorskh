@@ -9,7 +9,7 @@ I am a full-stack web and mobile developer. Former mobile communications researc
 ## Highlights
 ### 🍏Mobile 
 - Multilanguage flashcards: [igorskh/PolyglotFlashcards](https://github.com/igorskh/PolyglotFlashcards)
-- iPerf3 Client: [igorskh/iperf-swiftui](https://github.com/igorskh/iperf-swiftui)
+- iPerf3 Client: [igorskh/iperf-swiftui](https://github.com/igorskh/iperf-swiftui) / [igorskh/iperf-swift](https://github.com/igorskh/iperf-swift)
 - Configurable Android ping client: [igorskh/kt_ping](https://github.com/igorskh/kt_ping)
 - LTE/5G NR measurement tool: [igorskh/harvester](https://github.com/igorskh/harvester)
 ### 🕸Web
