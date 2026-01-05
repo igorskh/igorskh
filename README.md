@@ -4,7 +4,6 @@ Full-stack web and mobile developer. Primarily Next.JS (TypeScript), Flutter, Sw
 Nature and wildlife photographer and wildlife enthusiast. Over 700 species (over 200 birds) have been observed so far, and the list is growing.
 
 ## Follow me
-- 💻 Professional details on [LinkedIn](https://linkedin.com/in/igorskh)
 - 🦉 7+ years streak [on Duolingo](https://duolingo.com/profile/igorskh)
 - 📷 Daily stories, nature and astro photograpy [on Instagram](https://www.instagram.com/igorskh/)
 - 🍃 Nature observations on [iNaturalist](https://www.inaturalist.org/observations?place_id=any&user_id=igorskh&verifiable=any)
