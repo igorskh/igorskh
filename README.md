@@ -13,5 +13,6 @@ I am a full-stack web and mobile developer. Former mobile communications researc
 ### 🕸Web
 - Interactive map for radio spectrum allocation in Germany: [igorskh/react-spectrum-allocation-diagram](https://github.com/igorskh/react-spectrum-allocation-diagram)
 ### 🎮Games
-- Interactive visual novel developed in Unity: [Google Play link](https://play.google.com/store/apps/details?id=one.beagile.boragoldencoast&hl=en)
+- Interactive visual novel developed with Unity: [Google Play](https://play.google.com/store/apps/details?id=one.beagile.boragoldencoast&hl=en)
+- Bird Call Quiz developed with Flutter: [Google Play](https://play.google.com/store/apps/details?id=one.beagile.bird_call_quiz&hl=en) | [App Store](https://apps.apple.com/de/app/bird-call-quiz/id6752256723)
 
