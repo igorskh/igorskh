@@ -12,6 +12,6 @@ Nature and wildlife photographer and wildlife enthusiast. Over 700 species (over
 - iPerf3 Client: [igorskh/iperf-swiftui](https://github.com/igorskh/iperf-swiftui) / [igorskh/iperf-swift](https://github.com/igorskh/iperf-swift)
 
 ## Follow me
-- 🦉 7+ years streak [on Duolingo](https://duolingo.com/profile/igorskh)
 - 📷 Nature and wildlife photography [on Instagram](https://www.instagram.com/igorkimwildlife/)
 - 🍃 Nature observations on [iNaturalist](https://www.inaturalist.org/observations?place_id=any&user_id=igorskh&verifiable=any)
+- 🦉 7+ years streak [on Duolingo](https://duolingo.com/profile/igorskh)
