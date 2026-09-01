@@ -10,7 +10,6 @@ Nature and wildlife photographer and wildlife enthusiast. Over 700 species (over
 - User interface and backend for [Perch 2.0 model](https://www.kaggle.com/models/google/bird-vocalization-classifier): [igorskh/perch2-server](https://github.com/igorskh/perch2-server)
 ### 🍏Mobile
 - iPerf3 Client: [igorskh/iperf-swiftui](https://github.com/igorskh/iperf-swiftui) / [igorskh/iperf-swift](https://github.com/igorskh/iperf-swift)
-- Configurable Android ping client: [igorskh/kt_ping](https://github.com/igorskh/kt_ping)
 
 ## Follow me
 - 🦉 7+ years streak [on Duolingo](https://duolingo.com/profile/igorskh)
