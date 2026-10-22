@@ -1,7 +1,8 @@
 ## About me
 Full-stack web and mobile developer. Primarily Flutter, Next.JS (TypeScript), Goland, SwiftUI and Python.
 
-Nature and wildlife photographer and wildlife enthusiast. Over 700 species (over 200 birds) have been observed so far, and the list is growing.
+Naturalist, nature and wildlife photographer. 
+I observe and document everything from birds and mammals to arachnids, insects, fungi, plants, and more.
 
 ## Highlights
 ### 🍏Mobile
@@ -11,6 +12,6 @@ Nature and wildlife photographer and wildlife enthusiast. Over 700 species (over
 - User interface and backend for [Perch 2.0 model](https://www.kaggle.com/models/google/bird-vocalization-classifier): [igorskh/perch2-server](https://github.com/igorskh/perch2-server)
 
 ## Follow me
+- 🍃 Nature observations on [iNaturalist](https://www.inaturalist.org/people/igorskh)
 - 📷 Nature and wildlife photography [on Instagram](https://www.instagram.com/igorkimwildlife/)
-- 🍃 Nature observations on [iNaturalist](https://www.inaturalist.org/observations?place_id=any&user_id=igorskh&verifiable=any)
 - 🦉 7+ years streak [on Duolingo](https://duolingo.com/profile/igorskh)
